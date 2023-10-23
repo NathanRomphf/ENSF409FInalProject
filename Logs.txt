@@ -1,0 +1,10 @@
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+Arion - Pulled March 26th approx. 11:10pm - Pushed March 26th approx. 11:23PM
+- Edited Hamper.java; adding more comments essentially
+- Added folder full of file templates (if making new custom class/enum/exception/interface, can easily copy a template file; rename it, and replace '<name>' fields inside)
+- Added README for future if we need it
+- Added a Logs.txt to facilitate detailed update logs.. Not sure if we'll really use it, but feel free to put what you've done in here to keep track
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+
